@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\P134\ContactPractise\ContactPractise\bin\Debug\netcoreapp3.1\ContactPractise.exe
+C:\Users\Lenovo\Desktop\P134\ContactPractise\ContactPractise\bin\Debug\netcoreapp3.1\ContactPractise.deps.json
+C:\Users\Lenovo\Desktop\P134\ContactPractise\ContactPractise\bin\Debug\netcoreapp3.1\ContactPractise.runtimeconfig.json
+C:\Users\Lenovo\Desktop\P134\ContactPractise\ContactPractise\bin\Debug\netcoreapp3.1\ContactPractise.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\P134\ContactPractise\ContactPractise\bin\Debug\netcoreapp3.1\ContactPractise.dll
+C:\Users\Lenovo\Desktop\P134\ContactPractise\ContactPractise\bin\Debug\netcoreapp3.1\ContactPractise.pdb
+C:\Users\Lenovo\Desktop\P134\ContactPractise\ContactPractise\obj\Debug\netcoreapp3.1\ContactPractise.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\P134\ContactPractise\ContactPractise\obj\Debug\netcoreapp3.1\ContactPractise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\P134\ContactPractise\ContactPractise\obj\Debug\netcoreapp3.1\ContactPractise.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\P134\ContactPractise\ContactPractise\obj\Debug\netcoreapp3.1\ContactPractise.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\P134\ContactPractise\ContactPractise\obj\Debug\netcoreapp3.1\ContactPractise.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\P134\ContactPractise\ContactPractise\obj\Debug\netcoreapp3.1\ContactPractise.dll
+C:\Users\Lenovo\Desktop\P134\ContactPractise\ContactPractise\obj\Debug\netcoreapp3.1\ContactPractise.pdb
+C:\Users\Lenovo\Desktop\P134\ContactPractise\ContactPractise\obj\Debug\netcoreapp3.1\ContactPractise.genruntimeconfig.cache
